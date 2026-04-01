@@ -151,7 +151,7 @@ crypto-stock-market-impact/
 ### Running a Notebook in Google Colab
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Upload the notebook (e.g. `notebooks/emerging/turkey_bist100.ipynb`)
+2. Upload the notebook (e.g. `notebooks/emerging/turkey.ipynb`)
 3. Upload the two required CSV files for that country:
    - The stock index CSV (e.g. `BIST100.csv`)
    - The crypto asset CSV (e.g. `tether_USDT.csv`)
