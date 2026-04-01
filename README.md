@@ -38,7 +38,6 @@ This project investigates whether cryptocurrency returns (Bitcoin, Ethereum, Tet
 | Russia | MOEX |
 | Indonesia | IDX Composite |
 
-> *Update the tables above with the exact indices used in your study.*
 
 ---
 
