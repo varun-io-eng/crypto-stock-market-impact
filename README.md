@@ -153,8 +153,8 @@ crypto-stock-market-impact/
 1. Open [Google Colab](https://colab.research.google.com)
 2. Upload the notebook (e.g. `notebooks/emerging/turkey.ipynb`)
 3. Upload the two required CSV files for that country:
-   - The stock index CSV (e.g. `BIST100.csv`)
-   - The crypto asset CSV (e.g. `tether_USDT.csv`)
+   - The stock index CSV 
+   - The crypto asset CSV
 4. Run all cells (`Runtime → Run all`)
 
 All required packages are installed automatically at runtime:
