@@ -1,6 +1,6 @@
 # Crypto Impact on Global Stock Market Indices
 
-> **Internship Research Project** — Analysing the impact of cryptocurrency markets on stock market indices across 10 developed and 8 emerging economies.
+> **Research Project** — Analysing the impact of cryptocurrency markets on stock market indices across 10 developed and 8 emerging economies.
 
 ---
 
