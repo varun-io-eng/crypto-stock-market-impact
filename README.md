@@ -165,12 +165,10 @@ statsmodels, scipy, pandas, numpy, matplotlib
 ### Running Locally
 
 ```bash
-git clone https://github.com/<your-username>/crypto-stock-market-impact.git
+git clone https://github.com/varun-io-eng/crypto-stock-market-impact.git
 cd crypto-stock-market-impact
 
 pip install pandas numpy matplotlib statsmodels scipy
-
-jupyter notebook notebooks/emerging/turkey_bist100.ipynb
 ```
 
 ---
